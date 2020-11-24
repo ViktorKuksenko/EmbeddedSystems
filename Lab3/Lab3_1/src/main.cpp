@@ -1,4 +1,3 @@
-#include <Arduino.h>
 
 const int BUTTON_PIN = 16;
 int counter = 0;
