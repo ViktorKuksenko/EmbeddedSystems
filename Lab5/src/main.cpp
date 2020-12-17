@@ -22,8 +22,8 @@ hw_timer_t * timer = NULL;
 portMUX_TYPE timerMux = portMUX_INITIALIZER_UNLOCKED;
 
 /*----------------WiFi login, password----------------------*/
-const char* ssid       = "maksok";
-const char* password   = "maksoklox";
+const char* ssid       = "MY_SSID";
+const char* password   = "ProsotoPArol";
 
 /*----------------NTP Client----------------------*/
 WiFiUDP ntpUDP;
